@@ -3,6 +3,8 @@ gsl.vim
 
 Resaltador de sintaxis para GNU SL en el editor Vim
 
+Link oficial: http://www.vim.org/scripts/script.php?script_id=4790
+
 Instalación
 -----------
 0. Descargar el script `gsl.vim`
